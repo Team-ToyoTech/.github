@@ -3,6 +3,7 @@
 # ⚜️ Team Toyo Tech ⚜️
 
 <br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=endiy)](https://solved.ac/endiy/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meozigoon)](https://solved.ac/meozigoon/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blackzebra)](https://solved.ac/blackzebra/)
