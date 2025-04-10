@@ -9,19 +9,11 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blackzebra)](https://solved.ac/blackzebra/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juwon0226)](https://solved.ac/juwon0226/)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=meozigoon&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/meozigoon"
-  width="600"
-  height="200"
-/>
-</a>
-
 # 💪Skills
 ### Languages
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py,arduino)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meozigoon&layout=compact&langs_count=100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Team-Toyo-Tech&layout=compact&langs_count=100)
 
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,pycharm,arduino)
