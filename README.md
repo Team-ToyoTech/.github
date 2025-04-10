@@ -1,9 +1,6 @@
 <div align="center">
   
 # ⚜️ Team Toyo Tech ⚜️
-
-<br>
-
 # 💪Skills
 ### Languages
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py,arduino)
