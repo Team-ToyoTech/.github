@@ -14,8 +14,9 @@
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:makers.toyotech@gmail.com)](mailto:makers.toyotech@gmail.com)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=toyotech)](https://solved.ac/toyotech/)
 
+# BOJ solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=toyotech)](https://solved.ac/toyotech/)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=endiy)](https://solved.ac/endiy/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meozigoon)](https://solved.ac/meozigoon/)
