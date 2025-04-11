@@ -1,5 +1,5 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=⚜️Team_Toyo_Tech⚜️!&fontAlign=80&fontAlignY=40&color=bdbdc8)
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&fontColor=ffffff&text=Team&nbsp;Toyo&nbsp;Tech"/>
 
 # 💪Skills
 ### Languages
