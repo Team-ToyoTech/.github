@@ -1,18 +1,18 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=⚜️Team_Toyo_Tech⚜️!&fontAlign=80&fontAlignY=40&color=bdbdc8)
 <div align="center">
-  
-# ⚜️ Team Toyo Tech ⚜️
-## 💪Skills
+
+# 💪Skills
 ### Languages
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py,arduino)
 
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,pycharm,arduino)
 
-## :mailbox_with_mail: Contacts
+# :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:makers.toyotech@gmail.com)](mailto:makers.toyotech@gmail.com)
 [![LTW Badge](https://img.shields.io/badge/LTW-16b8f1?style=flat-square&logo=LTW&logoColor=white&link=https://www.leadtheworld.co.kr/)](https://www.leadtheworld.co.kr/)
 
-## BOJ
+# 💻 BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=toyotech)](https://solved.ac/toyotech/)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=endiy)](https://solved.ac/endiy/)
