@@ -10,7 +10,7 @@
 
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:makers.toyotech@gmail.com)](mailto:makers.toyotech@gmail.com)
-[![LTW Badge](https://img.shields.io/badge/LTW-d14836?style=flat-square&logo=LTW&logoColor=white&link=https://www.leadtheworld.co.kr/)](https://www.leadtheworld.co.kr/)
+[![LTW Badge](https://img.shields.io/badge/LTW-16b8f1?style=flat-square&logo=LTW&logoColor=white&link=https://www.leadtheworld.co.kr/)](https://www.leadtheworld.co.kr/)
 
 ## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=toyotech)](https://solved.ac/toyotech/)
