@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=175&fontColor=ffffff&text=Team&nbsp;ToyoTech"/>
 
+**[endiy0](https://github.com/endiy0), [meozigoon](https://github.com/meozigoon), [blackzebra500](https://github.com/blackzebra500), [applejuwon](https://github.com/applejuwon)**
+
 # 💪Skills
 ### Languages
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py,arduino)
