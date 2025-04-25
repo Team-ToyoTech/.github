@@ -13,8 +13,7 @@
 ![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,pycharm,arduino)
 
 ## :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:makers.toyotech@gmail.com)](mailto:makers.toyotech@gmail.com)
-
+[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:makers.toyotech@gmail.com)
 
 ## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=toyotech)](https://solved.ac/toyotech/)
