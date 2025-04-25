@@ -1,9 +1,9 @@
 <div align="center">
   
 # ⚜️ Team Toyo Tech ⚜️
-## 👤Members
 
-<span style="font-size:250"> [endiy0](https://github.com/endiy0) [meozigoon](https://github.com/meozigoon) [blackzebra500](https://github.com/blackzebra500) [applejuwon](https://github.com/applejuwon) </span>
+## 👤Members
+[endiy0](https://github.com/endiy0) [meozigoon](https://github.com/meozigoon) [blackzebra500](https://github.com/blackzebra500) [applejuwon](https://github.com/applejuwon)
 
 ## 💪Skills
 ### Languages
