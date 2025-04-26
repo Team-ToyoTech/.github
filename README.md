@@ -1,21 +1,19 @@
 <div align="center">
-  
-# ⚜️ Team Toyo Tech ⚜️
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=175&fontColor=ffffff&text=Team&nbsp;ToyoTech"/>
 
-## 👤Members
-[endiy0](https://github.com/endiy0) [meozigoon](https://github.com/meozigoon) [blackzebra500](https://github.com/blackzebra500) [applejuwon](https://github.com/applejuwon)
+**[endiy0](https://github.com/endiy0), [meozigoon](https://github.com/meozigoon), [blackzebra500](https://github.com/blackzebra500), [applejuwon](https://github.com/applejuwon)**
 
-## 💪Skills
+# 💪Skills
 ### Languages
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py,arduino)
 
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,pycharm,arduino)
 
-## :mailbox_with_mail: Contacts
-[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:makers.toyotech@gmail.com)
+# :mailbox_with_mail: Contacts
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:makers.toyotech@gmail.com)
 
-## BOJ
+# 💻 BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=toyotech)](https://solved.ac/toyotech/)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=endiy)](https://solved.ac/endiy/)
