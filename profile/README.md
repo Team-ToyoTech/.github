@@ -7,7 +7,7 @@
 
 # 💪Skills
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py,arduino,html,css,nodejs)
+![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,py,arduino,html,css,nodejs)
 
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,pycharm,arduino)
