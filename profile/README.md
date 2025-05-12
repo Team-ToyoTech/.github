@@ -7,10 +7,10 @@
 
 # 💪Skills
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,py,arduino,html,css,js)
+![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,arduino,py,html,css,js)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,notion,pycharm,arduino)
+![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,arduino,notion,pycharm)
 
 # :mailbox_with_mail: Contacts
 
