@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=175&fontColor=ffffff&text=Team&nbsp;ToyoTech"/>
-<h3> <a href="https://www.toyotech.dev/">Homepage</a> | <a href="https://erratic-crib-fc1.notion.site/1ea31449296f80dda0add35a22ea6e9b?v=1ea31449296f80a68dfb000c585a4455&pvs=74">Notion</h3>
+<h3> <a href="https://www.toyotech.dev/">Homepage</a> </h3>
 
 # 👤 Members
 **[endiy0](https://github.com/endiy0) | [meozigoon](https://github.com/meozigoon) | [blackzebra500](https://github.com/blackzebra500) | [applejuwon](https://github.com/applejuwon)**
