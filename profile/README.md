@@ -14,7 +14,7 @@
 
 # :mailbox_with_mail: Contacts
 
-**[Email](mailto:toyotech@toyotech.dev)**
+**[Email: toyotech@toyotech.dev](mailto:toyotech@toyotech.dev)**
 
 # 💻 BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=toyotech)](https://solved.ac/toyotech/)
