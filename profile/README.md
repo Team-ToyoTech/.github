@@ -4,7 +4,8 @@
 <h3> <a href="https://www.toyotech.dev/" target="_blank">Homepage</a> </h3>
 
 # 👤 Members
-**[endiy0](https://github.com/endiy0) | [meozigoon](https://github.com/meozigoon) | [blackzebra500](https://github.com/blackzebra500) | [applejuwon](https://github.com/applejuwon)**
+| [endiy0](https://github.com/endiy0) | [meozigoon](https://github.com/meozigoon) | [blackzebra500](https://github.com/blackzebra500) | [applejuwon](https://github.com/applejuwon) |
+| :---: | :---: | :---: | :---: |
 
 # 💪Skills
 ### Languages
