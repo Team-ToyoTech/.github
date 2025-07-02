@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=175&fontColor=ffffff&text=Team&nbsp;ToyoTech"/>
 
-<h3> <a href="https://www.toyotech.dev/" target="_blank">toyotech.dev</a> </h3>
+# Homepage
+<strong><a href="https://www.toyotech.dev/" target="_blank">toyotech.dev</a></strong>
 
 # 👤 Members
 | [endiy0](https://github.com/endiy0) | [meozigoon](https://github.com/meozigoon) | [blackzebra500](https://github.com/blackzebra500) | [applejuwon](https://github.com/applejuwon) |
