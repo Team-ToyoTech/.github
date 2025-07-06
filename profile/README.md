@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=175&fontColor=ffffff&text=Team&nbsp;ToyoTech"/>
 
+**프로그래밍 팀 ToyoTech 입니다**
+
 # Homepage
 <strong><a href="https://www.toyotech.dev/" target="_blank">WWW.TOYOTECH.DEV</a></strong>
 
