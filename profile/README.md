@@ -10,10 +10,10 @@
 
 # 💪Skills
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,arduino,py,html,css,js,nodejs,java)
+![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,arduino,py,html,css,js,nodejs,java,latex)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,arduino,notion,firebase,cloudflare,aws,clion,pycharm,unity,unreal,eclipse)
+![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,arduino,dotnet,cmake,notion,firebase,cloudflare,aws,clion,pycharm,unity,unreal,eclipse)
 
 # :mailbox_with_mail: Contacts
 
