@@ -13,7 +13,8 @@
 ![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,arduino,py,html,css,js,nodejs,java,latex)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,arduino,raspberrypi,dotnet,cmake,notion,firebase,cloudflare,aws,clion,pycharm,unity,unreal,eclipse)
+![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,arduino,raspberrypi,dotnet,cmake,notion)
+![My Skills](https://skillicons.dev/icons?i=firebase,cloudflare,aws,clion,pycharm,unity,unreal,eclipse)
 
 # :mailbox_with_mail: Contacts
 
