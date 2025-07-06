@@ -26,12 +26,6 @@
 <a href="https://www.instagram.com/team_toyotech/profilecard/?igsh=c3B1cmM2YjB4Y3hk" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.threads.net/@team_toyotech" target="_blank"><img src="https://img.shields.io/badge/Thread-333333?style=flat-square&logo=Thread&logoColor=white"/></a>
 
-# 💻 BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=endiy)](https://solved.ac/endiy/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meozigoon)](https://solved.ac/meozigoon/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blackzebra)](https://solved.ac/blackzebra/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juwon0226)](https://solved.ac/juwon0226/)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer"/>
 
 </div>
