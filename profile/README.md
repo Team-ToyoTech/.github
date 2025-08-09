@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=175&fontColor=ffffff&text=Team&nbsp;ToyoTech"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=175&fontColor=ffffff&text=Team&nbsp;ToyoTech<br/>"/>
 
 ### 프로그래밍 팀 ToyoTech 입니다
 ### We are ToyoTech, a programming team
