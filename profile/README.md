@@ -25,7 +25,7 @@
 | **[yscho@toyotech.dev](mailto:yscho@toyotech.dev)** | **[dhlee@toyotech.dev](mailto:dhlee@toyotech.dev)** | **[jhpark@toyotech.dev](mailto:jhpark@toyotech.dev)** | **[jwkim@toyotech.dev](mailto:jwkim@toyotech.dev)** |
 
 <a href="https://www.instagram.com/team_toyotech/profilecard/?igsh=c3B1cmM2YjB4Y3hk" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.threads.net/@team_toyotech" target="_blank"><img src="https://img.shields.io/badge/Thread-333333?style=flat-square&logo=Thread&logoColor=white"/></a>
+<a href="https://www.threads.net/@team_toyotech" target="_blank"><img src="https://img.shields.io/badge/@ Thread-333333?style=flat-square&logo=Thread&logoColor=white"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer"/>
 
