@@ -8,6 +8,7 @@
 # 👤 Members
 | [endiy0](https://github.com/endiy0) | [meozigoon](https://github.com/meozigoon) | [blackzebra500](https://github.com/blackzebra500) | [applejuwon](https://github.com/applejuwon) |
 | :-: | :-: | :-: | :-: |
+| Lead Embedded Engr | Firmware/Frontend Dev | Software/Backend Dev | Firmware/Electronics Engr |
 
 # 💪Skills
 ### Languages
